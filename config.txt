@@ -1,0 +1,5 @@
+
+# <section name="gmx insertmolecules" id="gmxim>
+   # <tool file="myTools/insertmol.xml" />
+# </section>
+
